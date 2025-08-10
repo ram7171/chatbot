@@ -13,12 +13,14 @@ pre-requisite:
     4c. Provide credentials
     4d. aws s3 ls
 5. Anaconda navigator Download
-6. open vs code from anaconda navigator - very important
-7. install boto3 - pip install boto3 == 1.37.11
-8. install langchain - pip install langchain == 0.3.0
-9. install langchain-AWS Module - pip install langchain-aws = 0.2.15
-10. install strealit - pip install streamlit == 1.43.1
-11. install transformer - pip install transformers
-12. install PyYAML - pip install PyYAML
-13. pip install -U langchain-aws
+     ### after installing the anaconda - source ~/anaconda3/bin/activate
+     after that, launch anaconda navigator - anaconda-navigator
+7. open vs code from anaconda navigator - very important
+8. install boto3 - pip install boto3 == 1.37.11
+9. install langchain - pip install langchain == 0.3.0
+10. install langchain-AWS Module - pip install langchain-aws = 0.2.15
+11. install strealit - pip install streamlit == 1.43.1
+12. install transformer - pip install transformers
+13. install PyYAML - pip install PyYAML
+14. pip install -U langchain-aws
    
