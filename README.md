@@ -2,7 +2,7 @@
 Building a Chatbot using Amazon Bedrock
 
 pre-requisite:
-1. Download VS code
+1. VS code - add amazon Q.
 2. install python version 3.12.4st
 3. Install AWS Cli : https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
   3a. aws --version
