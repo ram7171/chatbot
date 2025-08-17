@@ -23,4 +23,6 @@ pre-requisite:
 12. install transformer - pip install transformers
 13. install PyYAML - pip install PyYAML
 14. pip install -U langchain-aws
+
+15. to run the streamlit - streamlit run ./src/chatbot_frontend
    
